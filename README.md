@@ -1,9 +1,9 @@
 # Overview 
 
-Inspired by [@satoshi0212](https://github.com/satoshi0212)'s [30 Day Vision Repo](https://github.com/satoshi0212/visionOS_30Days)
+Inspired by [@satoshi0212](https://github.com/satoshi0212)'s [30 Day VisionOS Repo](https://github.com/satoshi0212/visionOS_30Days)
 
 # Purpose
-To deliver breathtaking and meaningful Spatial Computing/VR Experience, I must master the fundamental building blocks of Vision OS and its ecosystem.
+To deliver breathtaking and meaningful Spatial Computing/VR Experience, I must master the fundamental building blocks of VisionOS and its ecosystem.
 
 
 # Mastery Goal
