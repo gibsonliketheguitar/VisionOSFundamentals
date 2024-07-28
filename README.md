@@ -7,17 +7,19 @@ To deliver breathtaking and meaningful Spatial Computing/VR Experience, I must m
 
 
 # Mastery Goal
-- [] SwiftUI
-- [] Vision OS
-- [] ArKit
-- [] and other Apple API
+- [ ] SwiftUI
+- [ ] Vision OS
+- [ ] ArKit
+- [ ] and other Apple API
 
 # Tangent Goals
-- [] VR/Spatial Computing UI/UX experience 
+- [ ] VR/Spatial Computing UI/UX experience 
 
 # VisionOSFundamentals
 
 | Project name | Functionality | Core API | Xcode | WebXR |
 | ------------ | ------------- | -------- | ----- | -------- |
-|  Import3D   | import 3D model in window and immersive Space | RealityKit, RealityKitContent | | |
+|  Import3D_Model   | import 3D model in window and immersive Space | RealityKit, RealityKitContent | | |
+|  HandTracking   | handtrack | | |
+
 
